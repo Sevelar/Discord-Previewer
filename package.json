@@ -1,0 +1,20 @@
+{
+  "name": "discord-previewer",
+  "version": "1.0.0",
+  "description": "Discord Markdown Previewer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "discord",
+    "markdown"
+  ],
+  "author": "The Seviest (Sev)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord-markdown": "^2.3.0",
+    "electron": "^7.1.10",
+    "showdown": "^1.9.1"
+  }
+}
