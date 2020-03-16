@@ -1,4 +1,0 @@
-- add custom avatar, nickname, color
-- templates with special extension
-- markdown formatting
-- styles (code, doc, simple)

@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <title>Discord Previewer</title>
-        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="css/style.css">
         <meta http-equiv="Content-Security-Policy" content="script-src 'self' 'unsafe-inline';" />
     </head>
     <body>
@@ -19,11 +19,10 @@
                 <div class="button" id="close-button">&#xE8BB;</div>
             </div>
             <div class="window-options">
-                <div class="option">File</div>
-                <div class="option">Edit</div>
-                <div class="option">View</div>
-                <div class="option">About</div>
-                <div class="option">Help</div>
+                <ul class="option" id="file">File</ul>
+                <ul class="option" id="edit">Edit</ul>
+                <ul class="option" id="view">View</ul>
+                <ul class="option" id="help">Help</ul>
             </div>
         </header>
         <div class="main">
@@ -32,8 +31,8 @@
                 <div class="message">
                     <div class="container">
                         <h2 class="header">
-                            <img class="avatar" src="data/default-avatar.png" id="avatar">
-                            <span class="username">Default User</span>
+                            <img class="avatar" src="assets/img/default-avatar.png" id="avatar">
+                            <span class="username" id="username" style="color: #fff;">Default User</span>
                             <span class="time">
                                 <span id="time"></span>
                             </span>
