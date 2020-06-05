@@ -234,7 +234,7 @@ img[alt] {
     border-radius: 8px;
 }
 
-.message {
+.preview-message {
     margin-top: 1.0625rem;
     position: relative;
     -webkit-box-flex: 0;
