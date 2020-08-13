@@ -30,7 +30,7 @@ If you are interested in learning more about Electron.js framework, I highly rec
 
 <hr />
 
-<div align="center>
+<div align="center">
   <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/javascript-padded-90.png" />
   <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/electron-padded-90.png" />
   <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/node-padded-90.png" />
