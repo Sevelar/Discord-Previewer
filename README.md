@@ -28,8 +28,6 @@ This should open a new Electron instance with the application ready to go.
 
 If you are interested in learning more about Electron.js framework, I highly recommend you to check out [Electron's website](https://www.electronjs.org/) and its [Github repository!](https://github.com/electron/electron)
 
-<hr />
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/javascript-padded-90.png" />
   <img src="https://raw.githubusercontent.com/Sevelar/Sevelar/master/internals/img/electron-padded-90.png" />
