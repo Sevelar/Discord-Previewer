@@ -1,7 +1,7 @@
 <img src="internals/img/Discord-Previewer-banner-new.png" width="100%" />
 <hr />
 <p>
-  Introducing: Discord Previewer! The live-preview text editor styled in fashioned Discord theme! This application follows Discord's Markdown styling and uses Discord UI design to make it very similar to desktop client of Discord application. The code is written in pure JS, using only <a href="https://electron.atom.io/">Electron</a> framework to handle the backend side of the application. Application's development slowed down, once I started working on its successor, <a href="https://github.com/Sevelar/DisViewer/">DisViewer.</a>
+  Introducing: **Discord Previewer**! The live-preview text editor styled in fashioned Discord theme! This application follows Discord's Markdown styling and uses Discord UI design to make it very similar to desktop client of Discord application. The code is written in pure JS, using only <a href="https://electron.atom.io/">Electron</a> framework to handle the backend side of the application. Application's development slowed down, once I started working on its successor, <a href="https://github.com/Sevelar/DisViewer/">DisViewer.</a>
 
 This project is a first phase of a larger project, focusing on creating a live-preview DC Markdown text editor, styled by Discord theme and DC Markdown styling. This project will receive its final updates in near future, focusing on bug-fixing, maintaining decent security measures and eventually closing the first phase of the Markdown Text Editor project.
 </p>
@@ -12,7 +12,7 @@ This project is a first phase of a larger project, focusing on creating a live-p
 
 1. Clone the repository via Git and install all required dependencies:
 ```bash
-git clone https://github.com/Sevelar/DisViewer.git your-project-name
+git clone https://github.com/Sevelar/Discord-Previewer.git your-project-name
 cd your-project-name
 npm install
 ```
