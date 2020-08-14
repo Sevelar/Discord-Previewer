@@ -1,4 +1,7 @@
+<hr />
+
 <img src="internals/img/Discord-Previewer-banner-new.png" width="100%" />
+
 <hr />
 <p>
   Introducing: <b>Discord Previewer</b>! The live-preview text editor styled in fashioned Discord theme! This application follows Discord's Markdown styling and uses Discord UI design to make it very similar to desktop client of Discord application. The code is written in pure JS, using only <a href="https://electron.atom.io/">Electron</a> framework to handle the backend side of the application. Application's development slowed down, once I started working on its successor, <a href="https://github.com/Sevelar/DisViewer/">DisViewer.</a>
